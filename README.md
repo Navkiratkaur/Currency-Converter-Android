@@ -1,5 +1,5 @@
 # Currency-Converter-Android
-Simple currenty converter app
+Simple currenty converter app using Yahoo Finances
 
 Screenshot:
 
