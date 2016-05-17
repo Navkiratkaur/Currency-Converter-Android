@@ -1,5 +1,5 @@
 # Currency-Converter-Android
-Simple currenty converter app using Yahoo Finances
+Simple currency converter app using Yahoo Finances
 
 Features:
 - uses Yahoo Finances
